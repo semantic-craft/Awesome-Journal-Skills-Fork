@@ -77,8 +77,8 @@ description: Use when deciding which ssc-* sub-skill to invoke next, or when seq
 
 ## 反模式
 
-- **不要**跳过 `ssc-fit-positioning` 就动笔——它最常救稿（避免投错门）
-- **不要**在没有原创命题时去抠摘要和文风
+- 首次确定投稿方向，或材料显示定位发生实质变化时，先做 `ssc-fit-positioning`；已确定定位的局部修改不重复该步骤。
+- 若摘要或文风问题源于命题缺口，指出缺口并提出处理建议；未获授权时不重定命题，仍完成不依赖该决定的局部修改。
 - **不要**让 `ssc-rebuttal` 在正文未修订前生成回复
 
 ## 阶段诊断输出
