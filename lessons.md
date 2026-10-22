@@ -17,5 +17,6 @@ Keep reusable causes and evidence pointers here; keep credentials, private mater
 - Cause and consequence: <Trigger, cause, user-visible impact, and introducing commit or issue; mark unknown facts as unverified.>
 - Fix and evidence: <Fix commit or PR, regression check, and actual acceptance evidence; distinguish verified results from remaining gaps.>
 - Done right: <Concrete future action; link to the safeguard in code, checks, or the owning standard.>
+- Verify (验证点): <How to check later that this lesson is in place: which file to read, which command to run, what result to expect.>
 - Recurrence: Seen <N>x (<YYYY-MM-DD, ...>); <Evidence for each independent occurrence; exclude repair commits and retries.>
 ```
